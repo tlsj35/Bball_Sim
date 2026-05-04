@@ -10,7 +10,7 @@
 //pass, or dribble. All interactions are plugged into a formula that includes the user's and cpu's corresponding
 //stat: SHOOTING & BLOCK, PASSING & STEAL, and DRIBBLING & SPEED
 
-//RNG determines the outcome of all interactions, with higher attribute points increasing the odds in your favor.//test commit
+//RNG determines the outcome of all interactions, with higher attribute points increasing the odds in your favor.
 
 import java.util.*;
 
