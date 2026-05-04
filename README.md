@@ -1,5 +1,3 @@
 This basketball simulator was my final project for a previous class that I am expanding upon for my current class. It takes inputs from the user to assign stat points to the user's team, which are then applied in formulas during gameplay. The user plays against a cpu team that is randomly generated. RNG is a key element of this game, as nothing is 100% certain. The formulas are weighted to ensure there is always some RNG at play. I did this to make the game like a table/board game, as the element of uncertainty is fundamental in the feel of those types of games.
 
 My program has an MIT open source license. I got my code working as intended and polished of bugs, but it could be expanded upon to provide a more in-depth experience.
-
-Test pull
