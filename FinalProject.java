@@ -11,6 +11,7 @@
 //stat: SHOOTING & BLOCK, PASSING & STEAL, and DRIBBLING & SPEED
 
 //RNG determines the outcome of all interactions, with higher attribute points increasing the odds in your favor.
+//commit to github
 
 import java.util.*;
 
